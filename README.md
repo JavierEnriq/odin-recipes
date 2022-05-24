@@ -1,2 +1,2 @@
 # odin-recipes
-recipe website that I haven't done yet 
+A recipe website that will progressively get better with time
